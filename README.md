@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2d5f8a&height=200&section=header&text=Valentin%20Latchimy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=D%C3%A9veloppeur%20Fullstack%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20TypeScript%20%C2%B7%20IA&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2D5F8A&center=true&vCenter=true&width=600&lines=J'am%C3%A9liore+le+quotidien+des+utilisateurs;Dipl%C3%B4m%C3%A9+ing%C3%A9nieur+ESAIP+2025+-+IA;Disponible+imm%C3%A9diatement" alt="Typing SVG" />
 
