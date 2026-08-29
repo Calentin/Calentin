@@ -12,7 +12,7 @@
 
 Diplômé ingénieur ESAIP 2025, spécialisation IA. Je construis des applications web qui résolvent des problèmes concrets : remplacement d'un outil Excel par une application métier, intégration d'IA dans des flux de travail, applications personnelles de bout en bout.
 
-📍 Mobile sur toute la France, Belgique, Luxembourg, Suisse — ouvert au remote ou à Londres
+📍 Mobile sur toute la France, Belgique, Luxembourg, Suisse.
 ✅ Disponible immédiatement
 
 ---
